@@ -1,0 +1,39 @@
+body{
+	background: rgb(232, 247, 250);
+}
+
+h1{
+	text-align: center;
+	text-decoration: underline;
+	margin-bottom: 30px;
+}
+
+.img-veg{
+	height: 300px;
+	width: 300px;
+}
+
+.img-veg:hover{
+	transform: scale(1.5);
+}
+
+.main-container{
+	display: grid;
+	grid-template-columns: 30% 70%;
+	grid-gap: 50px;
+}
+
+.main-child{	
+	margin: 20px;
+	padding: 20px;
+}
+
+.note{
+	margin-top: 50px;
+	color: grey;
+}
+.container-footer{
+	display: grid;
+	grid-template-columns: 30% 70%;
+	grid-gap: 20px;
+}
