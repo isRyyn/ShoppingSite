@@ -1,2 +1,2 @@
-# VegetableMarket
-A webapp where users can buy vegetables. Only the frontend is implement here.
+# ShoppingSite
+A webapp where users can buy vegetables. Only the frontend is implemented.
